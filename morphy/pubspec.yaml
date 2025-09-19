@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   analyzer: ^8.1.1
-  build: ^4.0.0
+  build: ^3.1.0
   source_gen: ^4.0.1
   morphy_annotation: ^1.4.2
   dartx: ^1.2.0
